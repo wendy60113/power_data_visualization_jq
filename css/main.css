@@ -1,0 +1,7 @@
+.countainer{
+    display: flex;
+  }
+  .countainer div{
+    width: 50%;
+    height: 100%;
+  }
